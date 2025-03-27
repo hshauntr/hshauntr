@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaun Tran</h1>
-<h3 align="center">A Passionate Data Scientist from Los Angeles</h3>
+<h3 align="center">A Passionate Data Analyst from California</h3>
 
 - 👨‍💻 All of my projects are available at [https://hshauntr.github.io/](https://hshauntr.github.io/)
 
